@@ -10,9 +10,9 @@ Check it out [here](https://niketan16.github.io/DV-Vast-Challenge-2021-MC2/)
 
 ### Installing and running code in local machine
 
-- First clone the git repository by running "git clone https://github.com/asu-cse578-s2023/Devam-Hitansh-Manan-Niketan-Nihar-Tirth.git" command using git bash or terminal.
+- First clone the git repository by running "git clone https://github.com/parshwas19/Data-Visualisation-Project.git" command using git bash or terminal.
 
-- Go the the repository folder by running "cd Devam-Hitansh-Manan-Niketan-Nihar-Tirth" command.
+- Go the the repository folder by running "cd Data-Visualisation-Project" command.
 
 - Start simple python server by running command "python -m http.server". Note: python should be installed for running this command.
 
