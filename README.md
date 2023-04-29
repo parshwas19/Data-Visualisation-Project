@@ -1,6 +1,6 @@
 # Project: VAST Challenge 2021 MC-2
 
-Check it out [here](https://niketan16.github.io/DV-Vast-Challenge-2021-MC2/)
+Check it out [here](https://parshwas19.github.io/Data-Visualisation-Project/)
 
 ### Team Members:
 - Person 1: Parshwa Shah - pshah92@asu.edu
